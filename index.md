@@ -57,7 +57,7 @@ page!) You can also always call us to find our location.
 
 # Gallery
 
-![][(/assets/images/image1.jpg)
+![](/assets/images/image1.jpg)
 
 ![](./assets/images/8988769-nashville-hot-chicken-and-waffle-sandwich-photo-by-allrecipes-2000-0d69a04532014f35bcd1866e52a5b05c.jpg)
 
@@ -65,13 +65,13 @@ page!) You can also always call us to find our location.
 
 
 
-![](./assets/assets/images/Eggo.jpg)
+![](./assets/images/Eggo.jpg)
 
 
 
 
 
-![](./assets/images/assets/images/peanut.jpg)
+![](./assets/images/peanut.jpg)
 
 
 
