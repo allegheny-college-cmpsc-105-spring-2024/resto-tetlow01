@@ -57,17 +57,17 @@ page!) You can also always call us to find our location.
 
 # Gallery
 
-!()[./assets/images/5b9e697926000033008043b7.jpg]
+![][(/assets/images/5b9e697926000033008043b7.jpg)
 
-!()[./assets/images/8988769-nashville-hot-chicken-and-waffle-sandwich-photo-by-allrecipes-2000-0d69a04532014f35bcd1866e52a5b05c.jpg]
+![](./assets/images/8988769-nashville-hot-chicken-and-waffle-sandwich-photo-by-allrecipes-2000-0d69a04532014f35bcd1866e52a5b05c.jpg)
 
-!()[./assets/assets/images/Eggo-Breakfast-Sandwich.jpg]
+![](./assets/assets/images/Eggo-Breakfast-Sandwich.jpg)
 
-!()[./assets/images/assets/images/Peanut+Butter+and+Jelly+Protein+Waffles+Kodiak+Cakes.jpg]
+![](./assets/images/assets/images/Peanut+Butter+and+Jelly+Protein+Waffles+Kodiak+Cakes.jpg)
 
-!()[./assets/images/Peanut-Butter-Waffles-and-Jelly-Ice-Cream-Sandwich-recipe.jpg]
+![](./assets/images/Peanut-Butter-Waffles-and-Jelly-Ice-Cream-Sandwich-recipe.jpg)
 
-!()[./assets/images/waffle_sandwich]
+![](./assets/images/waffle_sandwich)
 
 # We now do events!!!
 
