@@ -3,7 +3,7 @@ layout: post
 title: "The Waffle-tastic Food Truck"
 ---
 
-Are you a _waffle fan?_ Then this food truck is for you! We create a wide arrange
+Are you a _waffle fan?_ Then this <span style="color:red">FOOD TRUCK</span> is for you! We create a wide arrange
 of fun waffle dishes. We have both sweet and savory dishes for whatever mood 
 you are in! If you are hungry, this food truck is the place to be!
 
