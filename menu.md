@@ -31,11 +31,13 @@ Two waffles topped with scrambled eggs, fried veggies, and salsa.
 Strawberry jam, cut fresh strawberries, peaunut butter sandwiched between two
 waffles.
 
-![](./assets/images/peanut.jpg)
+![](/assets/images/image1.jpg)
 
 ### Fruit Extranvaganza
 
 An assortment of fresh fruit with powder sugar and whipped cream topping two waffles.
+
+![](./assets/images/peanut.jpg)
 
 ### Chocolate Lovers Waffle
 
