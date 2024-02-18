@@ -13,10 +13,10 @@ Call us at **555-123-4567** with any questions or to have us at your **BIG** eve
 
 __For most normal days__
 
-Monday through Thursday: 7 am to 9 pm
-Friday: 7 am to 11 pm
-Saturday: 9 am to 11 pm
-Sunday: 9 am to 2 pm
+- Monday through Thursday: 7 am to 9 pm
+- Friday: 7 am to 11 pm
+- Saturday: 9 am to 11 pm
+- Sunday: 9 am to 2 pm
 
 __Hours will vary for events__
 
@@ -32,9 +32,9 @@ __Hours will vary for events__
 - IG: waffletruckCOL
 - Facebook: waffletruckCOL
 
-###Pittsburgh
+### Pittsburgh
 
--IG: waffletruckPIT
-Facebook: waffletruckPIT
+- IG: waffletruckPIT
+- Facebook: waffletruckPIT
 
 **Location will vary day-to-day**
