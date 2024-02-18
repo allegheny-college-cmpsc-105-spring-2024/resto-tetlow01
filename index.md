@@ -47,10 +47,8 @@ page!)__ You can also always call us to find our location.
 
 # We now do events!!!
 
-Need a food truck for a <span style="color:purple">birthday party</span>
-<span style="color:blue">graduation party</span>
-<span style="color:green">work event</span>
-<span style="color:aqua">etc?</span>
+Need a food truck for a <span style="color:blue">birthday party, graduation 
+party, work event, festival, etc.?</span>
 
 **Book us to fill all your catering needs!** Visit our contact page to find our 
 phone number and give us a call! We will make your event the _talk of the town_.
