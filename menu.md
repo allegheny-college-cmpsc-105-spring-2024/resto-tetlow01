@@ -5,17 +5,47 @@ permalink: /menu
 nav: true
 ---
 
-## menu
+## Menu
+ 
+ **All Items are $6**
+ 
+### Breakfast Waffle Sandwich
 
-this is the menu
+A breakfast sausage, egg of your choice, fried onions and peppers, bacon, and 
+cheese, sandwiched between two delicious waffles.
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+![](./assets/images/Eggo.jpg)
 
-### menu item 1
+### Chicken and Waffles
 
-#### lettuce
+Fried chicke tenders with sweet and spicy syrup untop of two waffles.
 
-- price: $100
+![](./assets/images/8988769-nashville-hot-chicken-and-waffle-sandwich-photo-by-allrecipes-2000-0d69a04532014f35bcd1866e52a5b05c.jpg)
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+### Eggy Waffle
+
+Two waffles topped with scrambled eggs, fried veggies, and salsa. 
+
+### PB&J Waffles
+
+Strawberry jam, cut fresh strawberries, peaunut butter sandwiched between two
+waffles.
+
+![](/assets/images/image1.jpg)
+
+### Fruit Extranvaganza
+
+An assortment of fresh fruit with powder sugar and whipped cream topping two waffles.
+
+![](./assets/images/peanut.jpg)
+
+### Chocolate Lovers Waffle
+
+Chocolate chip waffles with chocolate sauce and chocolate ice cream.
+
+### Waffle Sunday
+
+Nuts, caramel, hot fudge, and a maraschino cherry unto a scoop of vanilla ice 
+cream and two waffles.
+
+**All Items are $6**
