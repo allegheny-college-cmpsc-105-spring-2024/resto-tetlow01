@@ -19,7 +19,7 @@ time. My site had an engagement rate of 3 minutes and 15 seconds. Finally, Googl
 
 Below, I have included a picture, showing one of google’s dashboard’s for my website.
 
-![](./assets/images/plot01.png)
+![](assets/images/plot01.png)
 
 : Look at your analytics data. Write about the
 different sources of data contributing to the analytics automatic dashboards.
