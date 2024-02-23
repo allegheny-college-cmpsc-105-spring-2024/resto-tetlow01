@@ -1,8 +1,8 @@
-# TODO: replace the title with the name of your restaurant!
+# done: replace the title with the name of your restaurant!
 title: "Data Exploration Blog"
-# TODO: write your restaurateur alter ego name below, or your own name
+# done: write your restaurateur alter ego name below, or your own name
 author: Waffle-tastic Food Truck
-# TODO: write your Google Analytics tracking ID below
+# done: write your Google Analytics tracking ID below
 google_analytics: G-FTGDS3QR8H
 
 theme: minima
