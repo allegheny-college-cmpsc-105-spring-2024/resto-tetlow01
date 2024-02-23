@@ -20,7 +20,7 @@ reservation in advance: they are very booked. Additionally, if you are not a big
  the most delicious left overs.  Also, be prepared to have a long conversation 
  with your server. Everyone is super friendly; it is a part of the great service.
  
- https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Orion-Grieco/
+ [link to website](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Orion-Grieco/)
  
 
 - TODO: pretending that you ate at the restaurant, write a
