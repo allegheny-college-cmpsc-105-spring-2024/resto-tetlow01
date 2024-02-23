@@ -24,10 +24,3 @@ Finally, the best part of the whole Bakery is the Deliah! She is the best baker
 
 [Link to Bakery](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel/)
 
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
